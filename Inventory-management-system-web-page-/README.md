@@ -10,19 +10,19 @@ and recieve automatic email whenever renewal of license or warrenty is required
 5) Interactive interface, powered by bootstrap
 
 
-![image1](Inventory-management-system-web-page-/demoo/1.png?raw=true "Wanings generated on the home page")
+![image1](demoo/1.png?raw=true "Wanings generated on the home page")
 
 The above image shows the warnings generated when the license of software is on verge( 30 days before) of expiry
 
-![image2](Inventory-management-system-web-page-/demoo/2.png?raw=true "Easily query any iem in the inventory")
+![image2](demoo/2.png?raw=true "Easily query any iem in the inventory")
 
 Easy interface to query any inventory item added in the database.
 Multiple entries with same name also doesn't cause any problem.
 
-![image3](Inventory-management-system-web-page-/demoo/3.png?raw=true "Add items to inventory")
+![image3](demoo/3.png?raw=true "Add items to inventory")
 
 The above image shows form that allows us to add items to database. Again this form is highly customizable as per end-user needs
 
-![image4](Inventory-management-system-web-page-/demoo/4.png?raw=true "Signup form")
+![image4](demoo/4.png?raw=true "Signup form")
 
 The last image shows a simple Signup form added to increase functionality.
