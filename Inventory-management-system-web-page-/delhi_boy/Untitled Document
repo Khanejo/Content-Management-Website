@@ -1,0 +1,24 @@
+'''
+            today = datetime.date.now()
+            if goods.objects.filter(expiry_date - today < 31):
+
+
+#            goods.objects.values('expiry_date')  
+'''
+
+#            goods.objects.values('expiry_date')  
+'''
+            
+            resultant = date(expiry_date) - date.now()  
+            if resultant < 121:
+                droid = good_name
+                endr = expiry_date
+'''
+
+if (i - today < 300):
+                    endr = goods.objects.all().filter('expiry_date' = i)
+
+
+for i in e:
+                z = str(i)[:-2][1:].replace('(','').replace(')','').replace(',','').replace('datetime.date','').replace(" ","")
+                delta=datetime.datetime.strptime(z, "%d%m%Y").date()

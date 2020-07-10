@@ -1,0 +1,7 @@
+'''
+            today = datetime.date.now()
+            if goods.objects.filter(expiry_date - today < 31):
+
+
+#            goods.objects.values('expiry_date')  
+'''
